@@ -1,0 +1,17 @@
+#contenido{
+    background-color: #2B292E;
+    color: white;
+}
+.Inicio{
+    display: flex;
+    justify-content: center;
+}
+
+#piePagina{
+    background-color: #2B292E;
+    color: white;
+    text-align: center;
+}
+.lineaDireccion{
+    display: inline;
+}
